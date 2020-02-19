@@ -1,4 +1,4 @@
-
+'\xfe'
 import requests,os,sys,time
 from bs4 import BeautifulSoup as BS
 
